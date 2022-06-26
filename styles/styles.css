@@ -308,6 +308,7 @@ footer {
     color:var(--acolor) ;
     line-height: 1.7;
     letter-spacing: 0.03em;
+    font-style: normal;
 }
 
 .contacts-footer-item + .contacts-footer-item {
@@ -323,6 +324,7 @@ footer {
     color: var(--color-txt);
     line-height: 1.7;
     letter-spacing: 0.03em;
+    font-style: normal;
 }
 
 .logo-footer {
