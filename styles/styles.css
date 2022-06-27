@@ -384,6 +384,7 @@ footer {
 
 .portfolio-item { 
     display: inline-block;
+    
 }
 .portfolio-item-box {
     border-left: 1px solid var(--color-border-item);
