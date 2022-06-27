@@ -181,8 +181,8 @@ header{
 }
 
 .conteiner-main-button {
-   padding-top: 150px;
-     display: flex;
+    padding-top: 150px;
+    display: flex;
     justify-content: center;
    
 }
@@ -204,11 +204,9 @@ border-color: var(--color-acent);
     padding-bottom: 0;
 }
 
-
 .conteiner-benefits-item{
     display: inline-block;
     width: 270px;
-   
 }
 
 .conteiner-benefits-item > p {padding-top: 10px;
