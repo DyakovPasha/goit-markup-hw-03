@@ -217,7 +217,7 @@ border-color: var(--color-acent);
 line-height: 1.7;
 }
 .conteiner-caption{
-    isplay: flex;
+    display: flex;
     flex-wrap: wrap;
     gap: 30px;
 }
